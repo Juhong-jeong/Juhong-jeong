@@ -30,5 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
 </div>
 
+<h1>Git</h1>
+
 ![Juhong-jeong's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juhong-jeong&theme=github)
 
