@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>기술 스택</h1>
 
-<div display="flex" align="center">
+<div display="flex" flexDirection="row">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
