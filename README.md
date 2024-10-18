@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <h1>Git</h1>
 
 ![Juhong-jeong's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juhong-jeong&theme=github)
-[![Juhong-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhong-jeong&show_icons=true&count_private=true)](https://github.com/Juhong-jeong/github-readme-stats)
+[![Juhong-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhong-jeong)&hide=stars,contribs&count_private=true)](https://github.com/Juhong-jeong/github-readme-stats)
